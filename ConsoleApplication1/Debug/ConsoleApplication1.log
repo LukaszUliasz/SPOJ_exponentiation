@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\lukas\desktop\spoj\exponentiation\consoleapplication1\consoleapplication1\source.cpp(33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  ConsoleApplication1.vcxproj -> C:\Users\lukas\Desktop\SPOJ\exponentiation\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\Users\lukas\Desktop\SPOJ\exponentiation\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)
